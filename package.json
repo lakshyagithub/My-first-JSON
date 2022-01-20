@@ -1,0 +1,6 @@
+{
+    "name": "myapplication",
+    "description": "Hello!",
+    "version": "1.0",
+    "private":"true"
+}
